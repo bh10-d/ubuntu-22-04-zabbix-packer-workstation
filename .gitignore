@@ -1,0 +1,5 @@
+*.bak
+http/*.bak
+.DS_Store
+/packer_cache
+/provisioner/install-zabbix-1.sh
